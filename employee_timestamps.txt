@@ -1,0 +1,7 @@
+01/11/19,12:56:28,DND true,Mary Abbott
+01/11/19,12:56:36,DND false,Mary Abbott
+01/11/19,12:58:27,DND true,Jackie Kim
+01/11/19,12:59:51,DND true,Melissa McDonald
+01/11/19,13:00:23,DND false,Jackie Kim
+01/11/19,13:04:35,DND false,Melissa McDonald
+01/11/19,13:07:34,DND true,Britney Collins
